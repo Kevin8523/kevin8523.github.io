@@ -9,7 +9,7 @@ use-site-title: true
 <div style="text-align:left">
 <strong>Current Projects:</strong> &nbsp;&nbsp; 
 <a href="https://github.com/Kevin8523/coffee_consulting" role="button" class="btn btn-primary">Coffee Shop Consulting</a> 
-<a href="https://github.com/Kevin8523/shiny_fantasy_football" role="button" class="btn btn-primary">FF Shiny app</a> 
+<a href="https://github.com/Kevin8523/waiver_espn_app" role="button" class="btn btn-primary"> Add FA app</a> 
 <a href="https://github.com/Kevin8523/scripts" role="button" class="btn btn-primary">Python & R Scripts</a> 
 </div>
 
