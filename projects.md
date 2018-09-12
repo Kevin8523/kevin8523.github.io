@@ -7,11 +7,11 @@ subtitle: A repository of my journey
 ## Projects
 * [Analysis & Consulting on Coffee Shop](https://github.com/Kevin8523/coffee_consulting): Consulting work - Work in Progress
 
-* [ESPN Adding Free Agent after Waivers](https://github.com/Kevin8523/waiver_espn_app): Work in Progress: Script to add free agents after waiver wire ends
+* [ESPN Adding Free Agent after Waivers](https://github.com/Kevin8523/waiver_espn_app): Completed: Script to add free agents after waiver wire ends
 
 * [NFL Draft QB study](https://github.com/Kevin8523/nfldraft_qb_study): Finished extracting data, exploring data. WIP: Predicting Pro-Bowl caliber quarterbacks based on features given. 
 
-* [NBA Daily Fantasy Sports Optimization Code](https://github.com/Kevin8523/dfs_nba): Optimization code for setting lineups in Draft Kings & Fan duel
+* [NBA Daily Fantasy Sports Optimization Code](https://github.com/Kevin8523/dfs_nba): Completed: Optimization code for setting lineups in Draft Kings & Fan duel
 
 * [Anki Note Cards on Data Science](https://github.com/Kevin8523/Introduction-to-Statistical-Learning-Anki): Included thus far: Introduction to Statistical Learning, Hands-On Machine Learning with Scikit-Learn & TensorFlow
 
