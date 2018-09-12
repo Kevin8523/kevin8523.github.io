@@ -14,7 +14,7 @@ use-site-title: true
 </div>
 
 ----
-
+<!---
 <div style="text-align:left">
 <strong>Recent Posts:</strong> &nbsp;&nbsp; 
 <div class="spacer"></div>
@@ -75,3 +75,4 @@ use-site-title: true
     <a href="{{site.baseurl}}/blog">Archive </a>
   </li>
 </ul>
+-->
