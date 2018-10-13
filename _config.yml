@@ -25,6 +25,7 @@ description: A repository of my notes on data science, statistics, computer scie
 navbar-links:
   Blog: "blog"
   Projects: "projects"
+  Scripts: "scripts"
   Github: "http://github.com/Kevin8523"
   About: "aboutme"
 

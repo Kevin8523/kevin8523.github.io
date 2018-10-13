@@ -3,7 +3,7 @@ layout: page
 title: Welcome
 bigimg:
   - "/img/bigimg/homepage.jpg" : ""
-subtitle: My journey exploring everything Data Science
+subtitle: My journey mastering everything Data Science
 use-site-title: true
 ---
 <div style="text-align:left">
