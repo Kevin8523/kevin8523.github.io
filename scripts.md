@@ -7,7 +7,7 @@ subtitle: A repository of scripts
 ## Python Scripts
 * [pandas](https://github.com/Kevin8523/scripts/tree/master/python/pandas): Data Cleansing library
 
-* [scikitlearn](https://github.com/Kevin8523/scripts/tree/master/python/scikitlearn): Machine Learning Library
+* [scikitlearn](https://github.com/Kevin8523/scripts/tree/master/python/sklearn): Machine Learning Library
 
 
 ## R Scripts
