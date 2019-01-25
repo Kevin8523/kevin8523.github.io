@@ -21,6 +21,16 @@ X_train = sc.fit_transform(X_train)
 X_test = sc.transform(X_test)
 
 # Fitting classifier to the Training set
+# from sklearn.linear_model import LogisticRegression
+# classifier = LogisticRegression(random_state=0)
+# from sklearn.neighbors import KNeighborsClassifier
+# classifier = KNeighborsClassifier(n_neighbors = 5, metric = 'minkowski', p = 2)
+# from sklearn.naive_bayes import GaussianNB
+# classifier = KNeighborsClassifier(n_neighbors = 5, metric = 'minkowski', p = 2)
+# from sklearn.ensemble import RandomForestClassifier
+# classifier = RandomForestClassifier(n_estimators=10,criterion ='entropy', random_state=0)
+
+# classifier.fit(X_train,y_train)
 # Create your classifier here
 
 # Predicting the Test set results
